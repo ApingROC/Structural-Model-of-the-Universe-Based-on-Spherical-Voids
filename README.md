@@ -28,6 +28,7 @@ They transition through the 12 gates in an oscillating pattern, allowing for a 9
 
 ⸻
 
+
 4. Quantum Liquid
 
 The interstitial space between the spherical voids is filled with a quantum liquid.
@@ -63,3 +64,7 @@ The gates operate as field-effect transistors (FETs), with control lines existin
 In transparent media, RGB-based control could selectively address the gates.
 	•	Three faces of a cube apply RGB input, enabling color mixing–based selection of individual gates.
 	•	The remaining three cube faces may serve as input/output terminals for charge or signal injection.
+
+ ## Structural Model Preview
+
+![Spherical void arrangement simulation](IMG_5042.jpeg)
