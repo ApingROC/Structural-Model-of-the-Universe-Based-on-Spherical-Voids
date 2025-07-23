@@ -65,4 +65,6 @@ In transparent media, RGB-based control could selectively address the gates.
 
  ## Structural Model Preview
 
-![Spherical void arrangement simulation](IMG_5042.jpeg)
+![Spherical void arrangement simulation](IMG_5042.jpeg)]
+![Spherical void arrangement vizualization](IMG_5042.jpeg)]
+![Spherical void wave vizualization](IMG_5042.jpeg)]
